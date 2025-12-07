@@ -1,9 +1,8 @@
-/.phpunit.cache
+
 /node_modules
-/public/build
-/public/hot
-/public/storage
-/storage/*.key
+
+
+
 /vendor
 .env
 .env.backup
@@ -19,10 +18,10 @@ yarn-error.log
 /.idea
 /.vscode
 
-public/user-uploads/public/hot
+
 
 /public/css/app-custom.css
-/public/user-uploads/*
+
 !public/user-uploads/.htaccess
 
 /public/qrcodes/*
@@ -35,7 +34,7 @@ froiden-verify/
 *.zip
 .DS_Store
 resources/views/sections/custom_script.blade.php
-demo_db_copy.sql
+
 database/maxmind/
 public/css/app-custom.css
 public/css/theme-custom.css
